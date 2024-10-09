@@ -20,7 +20,7 @@
 			echo "
 			<div style='text-align: center; margin-top: 50px;'>
 				<h2>Registration Successful!</h2>
-				<button onclick='window.location.href=\"next_page.php\"' style='padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 16px; border-radius: 5px;'>Continue</button>
+				<button onclick='window.location.href=\"welcom.html\"' style='padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 16px; border-radius: 5px;'>Continue</button>
 			</div>";
 		} else {
 			echo "Registration failed. Please try again.";
